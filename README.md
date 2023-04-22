@@ -1,15 +1,3 @@
 # TyporaFinalBeta
 
 The final beta version of Typora before it started to make money for itself.
-
-## Void Linux installation
-
-```bash
-# TODO script or xbps binary.
-# 1. Git clone or curl to /tmp
-# 2. Chmod 0744 for xdeb
-# 3. mv xdeb to /bin
-# 4. xdeb /tmp/typora.deb
-# 5. Yesofcourse
-# 6. Delete from tmp
-```
